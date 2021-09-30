@@ -1,9 +1,13 @@
-# Projetos ministrados na semana da Engenharia Mecatrônica IFET/JF
+# VII SEMANA DA ENGENHARIA
 
-## VII SEMANA DA ENGENHARIA
+O objetivo desse mini-curso é fazer um sistema de deploy com visão computacional utilizando python.
 
-Mini curso de introducao a visao computacional desenvolvido para VII Semana da Engenharia.
+### Deploy:
 
-## VIII SEMANA DA ENGENHARIA
+- Welcome
+- Segmentação de cor
+- Detecção de Face
 
-# Deploy de um sistema de visão computacional com python
+
+#### Autor:
+Felipe Meganha [email](felipengmec@gmail.com)
