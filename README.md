@@ -1,12 +1,12 @@
-# VII SEMANA DA ENGENHARIA
+# MINICURSOS MINISTRADO NA SEMANA DA ENGENHARIA IFSUDESTEMG/JF
 
-O objetivo desse mini-curso é fazer um sistema de deploy com visão computacional utilizando python.
+#### VII SEMANA DA ENGENHARIA:
 
-### Deploy:
+Resumo geral de visão computacional e processamento digital de imagens com python e OpenCV
 
-- Welcome
-- Segmentação de cor
-- Detecção de Face
+#### VIII SEMANA DA ENGENHARIA
+
+Desenvolvimento de um deploy para projetos de Visão computacional
 
 
 #### Autor:
