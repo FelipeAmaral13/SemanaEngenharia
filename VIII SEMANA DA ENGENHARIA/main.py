@@ -31,7 +31,7 @@ def welcome():
     st.write('1) Welcome')
     st.write('2) Segmentar Cor')
     st.write('3) Detectar Face')
-    st.write('4) Cartonn')
+    st.write('4) Cartoon')
     
     # Colocar a logo do IF ou da semana da engenharia
     # st.image('hackershrine.jpg',use_column_width=True)
